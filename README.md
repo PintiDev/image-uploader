@@ -8,7 +8,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://vercel.com/iameziz/image-uploader-pintidevaziz">
+    <a href="https://image-uploader-pintidevaziz.vercel.app/">
       Demo
     </a>
     <span> | </span>
