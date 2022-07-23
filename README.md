@@ -37,7 +37,7 @@
 
 ## Overview
 
-![screenshot](https://firebasestorage.googleapis.com/v0/b/image-uploader-e9595.appspot.com/o/images?alt=media&token=cb7dc14b-0fbd-4f10-bcc4-7cacf7787a1b)
+![screenshot]https://i.ibb.co/Z1j7Nng/Screenshot-2022-07-21-161230.png)
 
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
